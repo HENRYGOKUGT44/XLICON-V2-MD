@@ -8,8 +8,8 @@ import axios from 'axios'
 
 global.owner = [
   ['256742794527', 'Nexa', true],
-  ['256742794527', 'Nexa', true], 
-  ['256742794527', 'Nexa', true], 
+  ['', '', ], 
+  ['', '', ], 
 ] //Number of owners
 
 //global.pairingNumber = "256742794527" //put your bot number here
