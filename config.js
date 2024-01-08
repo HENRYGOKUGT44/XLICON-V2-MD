@@ -56,11 +56,11 @@ global.premium = 'true'
 global.packname = '₦ɆӾ₳▂ ▄ ▅ ▆ ▇ █' 
 global.author = 'made by nexa' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@s4salmanyt'
-global.fgpyp = 'https://youtube.com/@s4salmanyt'
+global.igfg = '▢✓ Follow My channel\nhttps:/com/channel/0029VaE8GbCDLE7OtC3e\n' 
+global.dygp = 'https://chat.whatsapp.com/BfH0KLkICnjmGFMRcGMW'
+global.fgsc = 'https://github.com/duru32/GURU-BOT' 
+global.fgyt = 'https://https://www.youtube.com/@user-henrygokugt
+global.fgpyp = 'https://https://www.youtube.com/@user-henrygokugt'
 global.fglog = 'XLICON.jpg' 
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
